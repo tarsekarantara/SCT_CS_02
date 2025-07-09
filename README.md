@@ -4,13 +4,13 @@ This is a simple Python tool with a GUI to encrypt and decrypt images using a nu
 
 🔑 Features:
 
-●Encrypt and decrypt .jpg or .png images
+•Encrypt and decrypt .jpg or .png images
 
-●Easy-to-use interface built with Tkinter
+•Easy-to-use interface built with Tkinter
 
-●Uses a numeric key for processing
+•Uses a numeric key for processing
 
-●Saves the output image with _encrypt or _decrypt added to the filename
+•Saves the output image with _encrypt or _decrypt added to the filename
 
 
 🛠 Requirements:
